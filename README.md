@@ -16,3 +16,7 @@ In this little project I predict student performance using linear regression.
 In the file `Python_and_numpy_practice.ipynb` some homework exercises can be seen from my university's machine learning course.
 
 These were assigned to practice Python and Numpy.
+
+5. Support Vector Machine
+
+Experimenting with the SVM algorithm.
