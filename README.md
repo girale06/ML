@@ -1,5 +1,5 @@
 # Practicing Machine Learning Algorithms
-## 1. Natural Language Processing with Disaster Twwets
+## 1. Natural Language Processing with Disaster Tweets
 
 `Twitter.ipynb` is my submission to the running [competition](https://www.kaggle.com/competitions/nlp-getting-started/data) Organised by the Kaggle team. 
 This was a great way to dive into the world of language processing. Understanding the fundementals of RNN and LSTM.
